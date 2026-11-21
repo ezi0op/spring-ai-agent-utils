@@ -252,3 +252,6 @@ Apache License 2.0
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
+## My Learning Notes
+
+I am learning Git collaboration using fetch, pull, branches and merge.
